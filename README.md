@@ -11,7 +11,7 @@
 
 ![Nick Jennings's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverbucket&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverbucket&layout=donut&theme=transparent&hide=html,css,smarty,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverbucket&layout=donut&theme=transparent&hide=html,css,smarty)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
