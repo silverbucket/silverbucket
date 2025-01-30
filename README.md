@@ -1,5 +1,7 @@
 
-🔭 I’m a software developer with over 20 yearss experience. I enjoy writing TypeScript, Go, Python, HTML/CSS. Some open-source projects I'm currently working on as part of the [kosmos project](https://kosmos.org) project:
+🔭 I’m a senior software developer with over 20 years experience. I enjoy writing in TypeScript, Go, Python, HTML/CSS. 
+
+I like to write open-source code, and co-founded the [kosmos project](https://kosmos.org) project, of which I primarily work on:
   - [sockethub](https://github.com/sockethub/sockethub)
   - [hyperchannel](https://github.com/67p/hyperchannel)
 
