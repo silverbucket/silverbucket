@@ -13,7 +13,7 @@ I like to write open-source code, and co-founded the [kosmos project](https://ko
   - https://tablemountainstringband.com 🪕🎻
 
 
-🛩 I like to travel, and for over 10 years have been a go'er-to'er of [hackerbeach](https://hackerbeach.org/) 💻🏖
+🛩 I like to travel, especially to [hackerbeach](https://hackerbeach.org/) 💻🏖
 
 
 
