@@ -12,7 +12,7 @@ Other projects I maintain or co-maintain:
   - [secure-store-redis](https://github.com/silverbucket/secure-store-redis)
 
 For fun I'm working on a pirate-themed roguelike written in go. Still in early development.
-  - [Pirate Wars!](https://github.com/silverbucket/pirate-wars)
+  - [Pirate Wars](https://github.com/silverbucket/pirate-wars)
 
 🎵 I play banjo 🪕, drums 🥁, bass & guitar 🎸, synths 🎛️ and fiddle 🎻. Some bands I'm in:
   - https://hurphendale.com 🎛️
