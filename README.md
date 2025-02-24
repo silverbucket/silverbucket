@@ -6,7 +6,7 @@ I like to write open-source code, and co-founded the [kosmos project](https://ko
   - [hyperchannel](https://github.com/67p/hyperchannel)
 
 Other projects I maintain or co-maintain:
-  - [remotestorage.js]([https://github.com/remotes](https://github.com/remotestorage/remotestorage.js)
+  - [remotestorage.js](https://github.com/remotestorage/remotestorage.js)
   - [armadieto](https://github.com/remotestorage/armadietto)
   - [webfinger.js](https://github.com/silverbucket/webfinger.js)
   - [secure-store-redis](https://github.com/silverbucket/secure-store-redis)
