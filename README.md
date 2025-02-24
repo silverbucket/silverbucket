@@ -1,9 +1,9 @@
 
 🔭 I’m a senior software developer with over 20 years experience. I enjoy writing in TypeScript, Go, HTML/CSS. 
 
-I like to write open-source code, and co-founded the [kosmos project](https://kosmos.org) project, of which I primarily work on:
-  - [sockethub](https://github.com/sockethub/sockethub)
-  - [hyperchannel](https://github.com/67p/hyperchannel)
+I like to write open-source code, and co-founded the [Kosmos project](https://kosmos.org) project, of which I primarily work on:
+  - [Sockethub](https://github.com/sockethub/sockethub)
+  - [Hyperchannel](https://github.com/67p/hyperchannel)
 
 Other projects I maintain or co-maintain:
   - [remotestorage.js](https://github.com/remotestorage/remotestorage.js)
