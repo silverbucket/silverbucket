@@ -14,7 +14,8 @@ Other projects I maintain or co-maintain:
 For fun I'm working on a pirate-themed roguelike written in go. Still in early development.
   - [Pirate Wars](https://github.com/silverbucket/pirate-wars)
 
-🎵 I play banjo 🪕, drums 🥁, bass & guitar 🎸, synths 🎛️ and fiddle 🎻. Some bands I'm in:
+🎵 I've been a musician all my life, I enjoy playing banjo 🪕, drums 🥁, bass & guitar 🎸, synths 🎛️ and fiddle 🎻. 
+Some bands I'm in:
   - https://hurphendale.com 🎛️
   - https://theturpentineray.bandcamp.com 🪕
   - https://deathponee.bandcamp.com 🥁
