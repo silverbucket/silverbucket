@@ -7,8 +7,8 @@ I like to write open-source code, and co-founded the [Kosmos project](https://ko
 
 Other projects I maintain or co-maintain:
   - [remotestorage.js](https://github.com/remotestorage/remotestorage.js)
-  - [armadieto](https://github.com/remotestorage/armadietto)
-  - [webfinger.js](https://github.com/silverbucket/webfinger.js)
+  - [Armadieto](https://github.com/remotestorage/armadietto)
+  - [WebFinger.js](https://github.com/silverbucket/webfinger.js)
   - [secure-store-redis](https://github.com/silverbucket/secure-store-redis)
 
 For fun I'm working on a pirate-themed roguelike written in go. Still in early development.
