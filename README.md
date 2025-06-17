@@ -22,7 +22,7 @@ Some bands I'm in:
   - https://tablemountainstringband.com 🪕🎻
 
 
-🛩 I like to travel, especially to [hackerbeach](https://hackerbeach.org/) 💻🏖
+🛩 I like to travel, especially to [hackerbeach](https://hackerbeach.org/) 💻🏖 although now that I'm a father, I probably won't be going for a while.
 
 
 
