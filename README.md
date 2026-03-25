@@ -22,6 +22,7 @@ Some bands I'm in:
   - https://theturpentineray.bandcamp.com 🪕
   - https://deathponee.bandcamp.com 🥁
   - https://tablemountainstringband.com 🪕🎻
+  - http://bandno7.cz
 
 ### Games
   - [Pirate Wars](https://github.com/silverbucket/pirate-wars): A pirate-themed roguelike written in go. Still in early development.
