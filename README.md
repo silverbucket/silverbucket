@@ -10,14 +10,15 @@ I like to write open-source code, and co-founded the [Kosmos project](https://ko
 - [secure-store-redis](https://github.com/silverbucket/secure-store-redis): Encrypt the data you store in redis
 
 ### Apps
-
 - [Hyperchannel](https://github.com/67p/hyperchannel): Unhosted web app chat app which uses XMPP and IRC via Sockethub
 - [Setlist Roller](https://github.com/silverbucket/setlist-roller): Band app to manage collections of songs and "roll" setlists on the fly based on certain defined criteria
-- [Inbox-RS](https://github.com/silverbucket/inbox-rs): An inbox for quickly storing your thoughts, sorting them for reference or todos later. 
+- [Inbox-RS](https://github.com/silverbucket/inbox-rs): An inbox for quickly storing your thoughts, sorting them for reference or todos later.
+
+### CLI
+- [dwatch](https://github.com/silverbucket/dwatch): Track disk space growth over time.
 
 ### Browser Extensions
 - [Timezone Translate](https://github.com/silverbucket/timezone-translate): Translate date time information on a webpage to your local timezone. 
-
 
 ### Music
 🎵 I've been a musician all my life, I enjoy playing banjo 🪕, drums 🥁, bass & guitar 🎸, synths 🎛️ and fiddle 🎻. 
