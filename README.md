@@ -31,6 +31,8 @@ Some bands I'm in:
 
 
 ### Experiments / WIP
+#### Audio / Visual
+  - [vglr](https://github.com/silverbucket/vglr): Audio-reactive video glitch player for live shows and projections.
 #### Games
   - [Pirate Wars](https://github.com/silverbucket/pirate-wars): A pirate-themed roguelike written in go. Still in early development.
 
