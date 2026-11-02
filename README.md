@@ -23,13 +23,15 @@ I like to write open-source code, and co-founded the [Kosmos project](https://ko
 ### Music
 🎵 I've been a musician all my life, I enjoy playing banjo 🪕, drums 🥁, bass & guitar 🎸, synths 🎛️ and fiddle 🎻. 
 Some bands I'm in:
-  - https://hurphendale.com 🎛️
-  - https://theturpentineray.bandcamp.com 🪕
-  - https://deathponee.bandcamp.com 🥁
   - https://tablemountainstringband.com 🪕🎻
   - http://bandno7.cz
+  - https://theturpentineray.bandcamp.com 🪕
+  - https://deathponee.bandcamp.com 🥁
+  - https://hurphendale.com 🎛️
 
-### Games
+
+### Experiments / WIP
+#### Games
   - [Pirate Wars](https://github.com/silverbucket/pirate-wars): A pirate-themed roguelike written in go. Still in early development.
 
 🛩 I like to travel, especially to [hackerbeach](https://hackerbeach.org/) 💻🏖 although now that I'm a father, I probably won't be going for a while.
