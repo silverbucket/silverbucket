@@ -20,6 +20,14 @@ I like to write open-source code, and co-founded the [Kosmos project](https://ko
 ### Browser Extensions
 - [Timezone Translate](https://github.com/silverbucket/timezone-translate): Translate date time information on a webpage to your local timezone. 
 
+### Audio / Visual
+  - [vglr](https://github.com/silverbucket/vglr): Audio-reactive video glitch player for live shows and projections (RaspberryPi).
+  - 
+### Games
+  - [Pirate Wars](https://github.com/silverbucket/pirate-wars): A pirate-themed roguelike written in go. Still in early development.
+
+🛩 I like to travel, especially to [hackerbeach](https://hackerbeach.org/) 💻🏖 although now that I'm a father, I probably won't be going for a while.
+
 ### Music
 🎵 I've been a musician all my life, I enjoy playing banjo 🪕, drums 🥁, bass & guitar 🎸, synths 🎛️ and fiddle 🎻. 
 Some bands I'm in:
@@ -28,15 +36,6 @@ Some bands I'm in:
   - https://theturpentineray.bandcamp.com 🪕
   - https://deathponee.bandcamp.com 🥁
   - https://hurphendale.com 🎛️
-
-
-### Experiments / WIP
-#### Audio / Visual
-  - [vglr](https://github.com/silverbucket/vglr): Audio-reactive video glitch player for live shows and projections.
-#### Games
-  - [Pirate Wars](https://github.com/silverbucket/pirate-wars): A pirate-themed roguelike written in go. Still in early development.
-
-🛩 I like to travel, especially to [hackerbeach](https://hackerbeach.org/) 💻🏖 although now that I'm a father, I probably won't be going for a while.
 
 
 
